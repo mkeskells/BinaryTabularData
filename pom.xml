@@ -7,6 +7,16 @@
     <groupId>org.github.mkeskells</groupId>
     <artifactId>binary-tabular-data</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <name>Binary Tabular Data</name>
+    <description>Fast access to tabular data</description>
+    <licenses>
+        <license>
+            <name>Apache License, Version 2.0</name>
+            <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+            <comments>A business-friendly OSS license</comments>
+        </license>
+    </licenses>
     <dependencies>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
